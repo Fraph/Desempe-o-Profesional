@@ -7,7 +7,7 @@
 4. [Prácticas sostenibles en ele ambiente personal.](practicas.md)
 
 ---
-![socialambiental](img/Socialambiental.png)
+![socialambiental](img/introduccion.jpg)
 ---
 
 [Conclusiones](conclusiones.md)
