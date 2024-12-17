@@ -19,7 +19,7 @@ La industria, innovación y la infraestructura esta relacionado con el **Objetiv
 
 
 
-<img src="/img/9.1.png" alt="9-1" width="15" height="15">Desarrollar infraestructuras fiables, sostenibles, resilientes y de calidad, incluidas infraestructuras regionales y transfronterizas, para apoyar el desarrollo económico y el bienestar humano, haciendo especial hincapié en el acceso asequible y equitativ
+<img src="/img/9.1.png" alt="9-1" width="17" height="17">Desarrollar infraestructuras fiables, sostenibles, resilientes y de calidad, incluidas infraestructuras regionales y transfronterizas, para apoyar el desarrollo económico y el bienestar humano, haciendo especial hincapié en el acceso asequible y equitativ
 
 9.2 - Promover la industrialización inclusiva y sostenible
 
