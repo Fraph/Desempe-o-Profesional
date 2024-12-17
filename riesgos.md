@@ -17,7 +17,9 @@ La industria, innovación y la infraestructura esta relacionado con el **Objetiv
 
 9.1 - Infraestructuras Sostenibles e Inclusivas
 
-![9-1](/img/9.1.png)Desarrollar infraestructuras fiables, sostenibles, resilientes y de calidad, incluidas infraestructuras regionales y transfronterizas, para apoyar el desarrollo económico y el bienestar humano, haciendo especial hincapié en el acceso asequible y equitativ
+
+
+<img src="/img/9.1.png" alt="9-1" width="300" height="200">Desarrollar infraestructuras fiables, sostenibles, resilientes y de calidad, incluidas infraestructuras regionales y transfronterizas, para apoyar el desarrollo económico y el bienestar humano, haciendo especial hincapié en el acceso asequible y equitativ
 
 9.2 - Promover la industrialización inclusiva y sostenible
 
