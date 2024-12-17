@@ -8,6 +8,8 @@ Los Objetivos de Desarrollo Sostenible de Naciones Unidas es el plan de acción 
 
 ![dafo](img/dafo.jpg)
 
+
+
 ## ¿Con qué ODS está relacionado la industria, la innovación y la infraestructura?
 
 https://ods.dnp.gov.co/es/objetivos/industria-innovacion-e-infraestructura?utm_source=chatgpt.com
@@ -24,3 +26,4 @@ La industria, innovación y la infraestructura esta relacionado con el **Objetiv
 9.2 - Promover la industrialización inclusiva y sostenible
 
 <img src="/img/9.2.png" alt="9-2" width="17" height="17">Promover una industrialización inclusiva y sostenible y, de aquí a 2030, aumentar significativamente la contribución de la industria al empleo y al producto interno bruto, de acuerdo con las circunstancias nacionales
+
