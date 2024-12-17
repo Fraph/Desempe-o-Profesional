@@ -23,4 +23,4 @@ La industria, innovación y la infraestructura esta relacionado con el **Objetiv
 
 9.2 - Promover la industrialización inclusiva y sostenible
 
-![9-2](img/9.2.png)Promover una industrialización inclusiva y sostenible y, de aquí a 2030, aumentar significativamente la contribución de la industria al empleo y al producto interno bruto, de acuerdo con las circunstancias nacionales
+<img src="/img/9.2.png" alt="9-2" width="17" height="17">Promover una industrialización inclusiva y sostenible y, de aquí a 2030, aumentar significativamente la contribución de la industria al empleo y al producto interno bruto, de acuerdo con las circunstancias nacionales
