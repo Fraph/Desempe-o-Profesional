@@ -1,5 +1,5 @@
 # Desempeño profesional y personal
-![desempeño](img/desempeño1.jpg)
+![desempeño](img/desempeño2.jpg)
 
 El desempeño profesional y personal juega un papel crucial en la construcción de un futuro sostenible. En el ámbito profesional, la sostenibilidad no solo se relaciona con el cumplimiento de normativas ambientales, sino también con la implementación de estrategias que generen un impacto positivo en la sociedad y el medio ambiente. Esto incluye adoptar prácticas responsables, como la gestión eficiente de recursos, la innovación en procesos productivos y la promoción de una cultura organizacional comprometida con los Objetivos de Desarrollo Sostenible (ODS).
 
