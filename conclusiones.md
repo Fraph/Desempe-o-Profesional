@@ -2,5 +2,5 @@
 
 La sostenibilización de las empresas es clave para reducir impactos ambientales, adaptarse a regulaciones, satisfacer a consumidores conscientes y garantizar su viabilidad a largo plazo. Adoptar prácticas sostenibles no solo mitiga riesgos, sino que impulsa innovación, competitividad y un futuro equilibrado entre desarrollo económico y cuidado del planeta.
 
-<img src="img/conclusion.md" alt="conclusion" width="300" height="200">
+<img src="img/conclusion.jpg" alt="conclusion" width="300" height="200">
 
