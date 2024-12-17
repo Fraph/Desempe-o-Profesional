@@ -10,6 +10,9 @@ Para lograr esto se requiere dos puntos claves:
   2. Apoyarse en herramientas digitales especializadas y en consultoras de sostenibilidad de experiencia contrastada.
 
 
+
+Las actividades relacionadas con la industria química, la siderurgíca, la meánica, la textil, o la producción de bienes de consumo, es decir, el **Sector Secundario**, es uno de los que más contribuyen a la contaminación a nivel mundial, debido a los procesos involucrados en la transformación de materias primas y producción de bienes.
+
 El camino hacia la sostenibilidad empresarial es un camino de medio y largo plazo. No es suficiente con la implementación de herramientas digitales de sostenibilidad, sino que requiere de una cultura sostenible dentro de la empresa, que se produce cuando los empleados han interiorizado una nueva manera de trabajar y son copartícipes de los valores medioambientales y sociales de su organización
 
   ## Conciencia sobre los actos que afectan al medioambiente
